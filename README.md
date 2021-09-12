@@ -76,11 +76,11 @@ bash main.sh
 
 
 ### input image1
- <img src="https://github.com/leeseomin/arte27/blob/main/s/IMG_2966.png" width="500">
+ <img src="https://github.com/leeseomin/arte28/blob/main/s/hap.png" width="500">
  
 ### output image1
- <img src="https://github.com/leeseomin/arte27/blob/main/out/2966a.png" width="2000">
- <img src="https://github.com/leeseomin/arte27/blob/main/out/2966b.png" width="2000">
+ <img src="https://github.com/leeseomin/arte28/blob/main/out/ha1.png" width="2000">
+ <img src="https://github.com/leeseomin/arte28/blob/main/out/ha2.png" width="2000">
 
 
  
